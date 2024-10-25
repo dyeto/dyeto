@@ -9,10 +9,12 @@
 ---
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=dinyad-prog00&show_icons=true&theme=radical)
+
+---
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dinyad-prog00&layout=compact&theme=radical)
 
 ---
 
 ### 📂 Recent Projects
 - **Syfar** - A declarative language for integration testing, developed in Go
-- **dddb** - A lightweight database server, coded in C
+- **dddb** - A lightweight NoSQL database server, coded in C
