@@ -8,10 +8,8 @@
 
 ---
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=dinyad-prog00&show_icons=true&theme=radical)
-
----
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dinyad-prog00&layout=compact&theme=radical)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dinyad-prog00&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Donatien's GitHub stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinyad-prog00&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 ---
 
