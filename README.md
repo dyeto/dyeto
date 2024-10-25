@@ -2,9 +2,9 @@
 
 **Software Engineer | Data Engineer | AI/Data Scientist**
 
-👨‍💻 Passionate about developing innovative software solutions, specializing in AI and data-driven applications  
-🇫🇷 Based in France  
 🎓 Computer Science Graduate, specialized in AI  
+👨‍💻 Passionate about developing innovative software solutions, AI and Data driven applications  
+🇫🇷 Based in France  
 
 ---
 
