@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hello, I'm Donatien 👋
 
-<!--
-**dinyad-prog00/dinyad-prog00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer | Data Engineer | AI/Data Scientist**
 
-Here are some ideas to get you started:
+👨‍💻 Passionate about developing innovative software solutions, specializing in AI and data-driven applications  
+🇫🇷 Based in France  
+🎓 Computer Science Graduate, specialized in AI  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=dinyad-prog00&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dinyad-prog00&layout=compact&theme=radical)
+
+---
+
+### 📂 Recent Projects
+- **Syfar** - A declarative language for integration testing, developed in Go
+- **dddb** - A lightweight database server, coded in C
