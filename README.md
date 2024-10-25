@@ -8,7 +8,7 @@
 
 ---
 
-| <a href="https://github.com/dinyad-prog00"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dinyad-prog00&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Donatien's GitHub stats" /></a> | <a href="https://github.com/dinyad-prog00"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinyad-prog00&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/dinyad-prog00"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dinyad-prog00&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Donatien's GitHub stats" /></a> | <a href="https://github.com/dinyad-prog00"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinyad-prog00&langs_count=8&size_weight=0.5&count_weight=0.5&hide=html,php,blade,css&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 ---
 
