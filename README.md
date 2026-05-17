@@ -11,6 +11,7 @@
 | ------------- | ------------- |
 
 ### 📂 Recent Projects
+- **xrMCP** - Extended Reality of MCP: Define MCP tools once, deploy everywhere
 - **llm--text2sql-chatbot-api** - Text2SQL powered by Large Language Models
 - **Syfar** - A declarative language for integration testing, developed in Go
 - **dddb** - A lightweight NoSQL database server, coded in C
