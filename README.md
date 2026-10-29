@@ -1,6 +1,6 @@
 # Hello, I'm Donatien 👋
 
-**Software Engineer | Data Engineer | AI/Data Scientist**
+**AI Research Engineer | Agentic AI**
 
 🎓 Computer Science Graduate, specialized in AI  
 👨‍💻 Passionate about developing innovative software solutions, AI and Data driven applications  
